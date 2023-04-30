@@ -1,0 +1,9 @@
+{
+	"name": "haritha473",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eeb5cc24-6f3a-4cfe-b3f9-5dc39328dc9f",
+		"tenantId": "81aa0029-1123-474d-8327-43967f9e8f8e"
+	}
+}
